@@ -7,7 +7,7 @@ def div_con(x):
         else:
             num_list.append(int(item))
 
-    return (sum(num_list)-sum(str_list))
+    return (sum(num_list) - sum(str_list))
 
 
 """"

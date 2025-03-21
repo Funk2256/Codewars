@@ -5,4 +5,5 @@ def nb_year(population, percent, aug, target):
         year += 1
     return year
 
+
 print(nb_year(1500000, 0.25, 1000, 2000000))

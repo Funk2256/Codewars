@@ -6,6 +6,4 @@ def solution(numbers):
         print(diction_rims_number[x])
 
 
-
-
 print(solution(15))

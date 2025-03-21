@@ -6,5 +6,4 @@ def move_zeros(array):
         print(list_zero)
 
 
-
-move_zeros([1,1,1,1,1,0,0,1])
+move_zeros([1, 1, 1, 1, 1, 0, 0, 1])

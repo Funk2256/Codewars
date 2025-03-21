@@ -1,5 +1,6 @@
 from urllib.parse import urlsplit
 
+
 def domain_name(url):
     test_url = urlsplit(url)
     if test_url.netloc == '':
