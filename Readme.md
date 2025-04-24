@@ -4,3 +4,4 @@
 | You Can't Do That on Television | [Link](https://www.codewars.com/kata/5667525f0f157f7a0a000004) | 7 kyu   | 21-04-2025   |
 | Caeser Encryption | [Link](https://www.codewars.com/kata/56dc695b2a4504b95000004e) | 7 kyu   | 22-04-2025   |
 | Never visit a | [Link](https://www.codewars.com/kata/56c5847f27be2c3db20009c3) | 8 kyu   | 23-04-2025   |
+| What The Biggest Search Key | [Link](https://www.codewars.com/kata/58ac1abdff4e78738f000805) | 6 kyu   | 24-04-2025   |
